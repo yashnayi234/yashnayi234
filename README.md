@@ -46,9 +46,12 @@ me.sayHi();
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
+### Backend & API
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MCP Server](https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### AI & Machine Learning
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
@@ -146,34 +149,6 @@ Analyzed customer behavior and promotional offer effectiveness using advanced da
 
 ---
 
-## 🎯 Areas of Expertise
-
-### 🤖 AI & Machine Learning
-- **LLM Engineering**: Fine-tuning, prompt engineering, inference optimization, chain-of-thought reasoning
-- **Agentic AI**: Multi-agent systems, LangChain/LangGraph orchestration, autonomous workflows
-- **RAG Systems**: Retrieval-Augmented Generation, semantic search, context optimization
-- **Vector Databases**: Pinecone, ChromaDB, FAISS for efficient similarity search
-- **Model Development**: PyTorch, TensorFlow, supervised/unsupervised learning, transfer learning
-
-### 📊 Data Analysis & Engineering
-- **Data Processing**: ETL pipelines, data cleaning, feature engineering, statistical analysis
-- **Database Management**: SQL optimization, PostgreSQL, schema design
-- **Data Visualization**: Creating actionable insights from complex datasets
-- **Analytics**: A/B testing, predictive modeling, customer behavior analysis
-
-### ☁️ MLOps & Deployment
-- **Cloud Platforms**: AWS (Bedrock, Lambda, S3, ECR), Google Vertex AI
-- **API Development**: FastAPI, Flask, RESTful services, real-time inference endpoints
-- **Containerization**: Docker for scalable ML deployments
-- **CI/CD**: Automated pipelines for ML model deployment
-
-### 🔧 Automation & Productivity
-- **Workflow Automation**: n8n for complex automation pipelines
-- **Project Management**: Agile methodologies with Jira, documentation with Notion
-- **AI-Powered Development**: Cursor, Windsurf, Google IDX for enhanced productivity
-
----
-
 ## 🏗️ What I Build
 
 - 🤖 **Agentic AI Systems**: Multi-agent workflows using LangChain and LangGraph
@@ -189,12 +164,7 @@ Analyzed customer behavior and promotional offer effectiveness using advanced da
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-Check out my latest articles on [Medium](https://medium.com/@yash.nayi9624) where I share insights on:
-- AI/ML system architecture and deployment strategies
-- Data analysis techniques and best practices
-- RAG implementation and optimization
-- LLM fine-tuning and prompt engineering
-- Real-world ML project case studies
+Check out my latest articles on [Medium](https://medium.com/@yash.nayi9624) where I share insights on
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -216,7 +186,7 @@ I'm always interested in collaborating on innovative AI/ML projects, data analys
 - 💼 [LinkedIn](https://www.linkedin.com/in/yashnayi)
 - 🌐 [Portfolio](https://yashnayi09.netlify.app/)
 - 📝 [Medium Blog](https://medium.com/@yash.nayi9624)
-- 📧 Email: [Your Email Here]
+- 📧 Email: [yash.nayi9624@gmail.com]
 
 ---
 
