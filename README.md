@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-AI/ML Engineer with 2.5+ years of experience building production-grade agentic applications, LLM inference APIs, and RAG pipelines. I transform complex data challenges into actionable insights and intelligent systems. Passionate about leveraging AI to solve real-world problems through data analysis, machine learning, and agentic architectures.
+AI/ML Engineer who builds intelligent systems that matter. I develop production-grade agentic applications, LLM-powered APIs, and retrieval-augmented generation pipelines that deliver measurable results. From data analysis and feature engineering to deploying scalable ML models in the cloud, I create AI solutions that transform how businesses operate and make decisions.
 
 ```typescript
 class AIMLEngineer {
