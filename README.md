@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Yash Nayi
 
-### Data Scientist | Machine Learning Engineer | AI Engineer | NLP Enthusiast
+### AI/ML Engineer | Data Analyst | Agentic Systems Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashnayi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yashnayi09.netlify.app/)
@@ -12,53 +12,76 @@
 
 ---
 
-## A bit About Me
+## 🚀 About Me
 
-Passionate data scientist with expertise in machine learning, natural language processing, and deep learning. I love transforming complex data into actionable insights and building intelligent systems that solve real-world problems.
+AI/ML Engineer with 2.5+ years of experience building production-grade agentic applications, LLM inference APIs, and RAG pipelines. I transform complex data challenges into actionable insights and intelligent systems. Passionate about leveraging AI to solve real-world problems through data analysis, machine learning, and agentic architectures.
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Yash Nayi"
-        self.role = "Data Scientist & ML Engineer"
-        self.interests = ["NLP", "Deep Learning", "AI Ethics"]
-        self.currently_learning = ["LLM Fine-tuning", "MLOps"]
+```typescript
+class AIMLEngineer {
+    constructor() {
+        this.name = "Yash Nayi";
+        this.role = "AI/ML Engineer & Data Analyst";
+        this.expertise = ["Machine Learning", "Data Analysis", "Agentic AI Systems"];
+        this.currentlyLearning = ["Advanced RAG", "Multi-Agent Systems", "LLM Fine-tuning"];
+        this.endlessLearning = "Forever curios, foreve"
+    }
     
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
+    sayHi(): void {
+        console.log("Thanks for stopping by! Let's build intelligent data-driven solutions together.");
+    }
+}
 
-me = DataScientist()
-me.say_hi()
+const me = new AIMLEngineer();
+me.sayHi();
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-121212?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/🔍_LangSmith-121212?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 
-### Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+### Cloud & AI Platforms
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### Agentic IDEs & Development Tools
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge)
+![Google IDX](https://img.shields.io/badge/Google_IDX-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Productivity & Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+### Automation & Workflows
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -112,11 +135,41 @@ Analyzed customer behavior and promotional offer effectiveness using advanced da
 
 ## 🎯 Areas of Expertise
 
-- **Machine Learning**: Supervised/Unsupervised Learning, Ensemble Methods, Neural Networks
-- **Natural Language Processing**: Text Classification, NER, Sentiment Analysis, LLM Fine-tuning
-- **Deep Learning**: CNNs, RNNs, Transformers, Transfer Learning
-- **Data Engineering**: ETL Pipelines, Data Warehousing, Feature Engineering
-- **MLOps**: Model Deployment, Monitoring, CI/CD for ML Systems
+### 🤖 AI & Machine Learning
+- **LLM Engineering**: Fine-tuning, prompt engineering, inference optimization, chain-of-thought reasoning
+- **Agentic AI**: Multi-agent systems, LangChain/LangGraph orchestration, autonomous workflows
+- **RAG Systems**: Retrieval-Augmented Generation, semantic search, context optimization
+- **Vector Databases**: Pinecone, ChromaDB, FAISS for efficient similarity search
+- **Model Development**: PyTorch, TensorFlow, supervised/unsupervised learning, transfer learning
+
+### 📊 Data Analysis & Engineering
+- **Data Processing**: ETL pipelines, data cleaning, feature engineering, statistical analysis
+- **Database Management**: SQL optimization, PostgreSQL, schema design
+- **Data Visualization**: Creating actionable insights from complex datasets
+- **Analytics**: A/B testing, predictive modeling, customer behavior analysis
+
+### ☁️ MLOps & Deployment
+- **Cloud Platforms**: AWS (Bedrock, Lambda, S3, ECR), Google Vertex AI
+- **API Development**: FastAPI, Flask, RESTful services, real-time inference endpoints
+- **Containerization**: Docker for scalable ML deployments
+- **CI/CD**: Automated pipelines for ML model deployment
+
+### 🔧 Automation & Productivity
+- **Workflow Automation**: n8n for complex automation pipelines
+- **Project Management**: Agile methodologies with Jira, documentation with Notion
+- **AI-Powered Development**: Cursor, Windsurf, Google IDX for enhanced productivity
+
+---
+
+## 🏗️ What I Build
+
+- 🤖 **Agentic AI Systems**: Multi-agent workflows using LangChain and LangGraph
+- 🔍 **RAG Applications**: Production-grade retrieval systems with vector databases
+- 📊 **Data Analytics Solutions**: End-to-end data pipelines and visualization dashboards
+- 🚀 **LLM Inference APIs**: FastAPI-based services for real-time AI inference
+- 📦 **ML Deployment Pipelines**: Dockerized ML models with AWS infrastructure
+- 🧠 **Custom ML Models**: Fine-tuned LLMs and neural networks for specific use cases
+- 📈 **Predictive Analytics**: Statistical models for business insights and forecasting
 
 ---
 
@@ -124,17 +177,28 @@ Analyzed customer behavior and promotional offer effectiveness using advanced da
 
 <!-- BLOG-POST-LIST:START -->
 Check out my latest articles on [Medium](https://medium.com/@yash.nayi9624) where I share insights on:
-- Machine Learning best practices
-- NLP techniques and applications
-- Data Science project walkthroughs
-- Industry trends and innovations
+- AI/ML system architecture and deployment strategies
+- Data analysis techniques and best practices
+- RAG implementation and optimization
+- LLM fine-tuning and prompt engineering
+- Real-world ML project case studies
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced multi-agent collaboration patterns with LangGraph
+- Production-grade RAG system optimization and evaluation
+- Time series analysis and forecasting techniques
+- Real-time data streaming and processing
+- Vector database performance tuning for large-scale applications
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always interested in collaborating on exciting data science projects or discussing the latest in AI/ML. Feel free to reach out!
+I'm always interested in collaborating on innovative AI/ML projects, data analysis challenges, or discussing the latest in agentic systems and machine learning. Feel free to reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yashnayi)
 - 🌐 [Portfolio](https://yashnayi09.netlify.app/)
@@ -145,7 +209,7 @@ I'm always interested in collaborating on exciting data science projects or disc
 
 <div align="center">
   
-### 💡 "Data is the new oil, but insights are the new gold."
+### 💡 "Transforming data into intelligence, one model at a time."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashnayi234&color=blueviolet&style=flat-square&label=Profile+Views)
 
