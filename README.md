@@ -23,7 +23,6 @@ class AIMLEngineer {
         this.role = "AI/ML Engineer & Data Analyst";
         this.expertise = ["Machine Learning", "Data Analysis", "Agentic AI Systems"];
         this.currentlyLearning = ["Advanced RAG", "Multi-Agent Systems", "LLM Fine-tuning"];
-        this.endlessLearning = "Forever curios, foreve"
     }
     
     sayHi(): void {
