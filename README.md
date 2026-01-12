@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## A Bit About Me
 
 AI/ML Engineer who builds intelligent systems that matter. I develop production-grade agentic applications, LLM-powered APIs, and retrieval-augmented generation pipelines that deliver measurable results. From data analysis and feature engineering to deploying scalable ML models in the cloud, I create AI solutions that transform how businesses operate and make decisions.
 
@@ -36,7 +36,7 @@ me.sayHi();
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -101,7 +101,7 @@ me.sayHi();
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 ### 🤖 [Fine-Tuned Gemma 2B for LinkedIn Profiles](https://github.com/yashnayi234/Fine-Tuned-on-Gemma-2b-for-Linkedin-profiles)
 Fine-tuned Google's Gemma 2B model for generating professional LinkedIn profile content using advanced NLP techniques.
@@ -135,21 +135,7 @@ Analyzed customer behavior and promotional offer effectiveness using advanced da
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashnayi234&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashnayi234&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashnayi234&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🏗️ What I Build
+## What I Build
 
 - 🤖 **Agentic AI Systems**: Multi-agent workflows using LangChain and LangGraph
 - 🔍 **RAG Applications**: Production-grade retrieval systems with vector databases
@@ -161,7 +147,7 @@ Analyzed customer behavior and promotional offer effectiveness using advanced da
 
 ---
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 Check out my latest articles on [Medium](https://medium.com/@yash.nayi9624) where I share insights on
@@ -169,7 +155,7 @@ Check out my latest articles on [Medium](https://medium.com/@yash.nayi9624) wher
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Advanced multi-agent collaboration patterns with LangGraph
 - Production-grade RAG system optimization and evaluation
@@ -179,7 +165,7 @@ Check out my latest articles on [Medium](https://medium.com/@yash.nayi9624) wher
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always interested in collaborating on innovative AI/ML projects, data analysis challenges, or discussing the latest in agentic systems and machine learning. Feel free to reach out!
 
