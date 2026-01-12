@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Yash Nayi
 
-### Data Scientist | Machine Learning Engineer | NLP Enthusiast
+### Data Scientist | Machine Learning Engineer | AI Engineer | NLP Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashnayi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yashnayi09.netlify.app/)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## A bit About Me
 
 Passionate data scientist with expertise in machine learning, natural language processing, and deep learning. I love transforming complex data into actionable insights and building intelligent systems that solve real-world problems.
 
