@@ -85,7 +85,7 @@ me.sayHi();
 ### Agentic IDEs & Development Tools
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge)
-![Google IDX](https://img.shields.io/badge/Google_IDX-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_IDX-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Productivity & Project Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
