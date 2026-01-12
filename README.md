@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Yash Nayi
+# 👋 Hi there, I'm Yash Nayi
 
 ### Data Scientist | Machine Learning Engineer | AI Engineer | NLP Enthusiast
 
